@@ -48,7 +48,7 @@ public:
 };
 int main()
 {
-  sorted ob; //constructor called automatically and calling function respe
+  sorted ob; //constructor called automatically and calling function respectively
   ob.input();
   ob.calculate();
   ob.print();
